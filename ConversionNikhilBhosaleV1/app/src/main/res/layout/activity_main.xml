@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/miles_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Miles"/>
+
+    <Button
+        android:id="@+id/convert_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Convert"/>
+
+    <TextView
+        android:id="@+id/kilometers_output"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
