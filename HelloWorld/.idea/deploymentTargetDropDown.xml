@@ -7,7 +7,7 @@
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\monil\.android\avd\Pixel_XL_API_UpsideDownCake.avd" />
+            <value value="C:\Users\nikhil\.android\avd\Pixel_XL_API_UpsideDownCake.avd" />
           </Key>
         </deviceKey>
       </Target>
